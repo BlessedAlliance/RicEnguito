@@ -25,23 +25,9 @@
  */
 
 $settings = [
-    /**
-     * Application Name
-     */
-    'application_name' => 'Ricardo Candia Enguito',
-
-    /**
-     * Organization Info
-     */
-    'organization' => 'B.L.E.S.S.E.D. Alliance Team',
-
-    /**
-     * Copyright year
-     */
-    'copyright_year' => date('Y'),
+    'aim_world_id' => "571835c1e4ddb",
 ];
 
-
 return [
-    'application_settings' => $settings
+    'aim_world_settings' => $settings
 ];
